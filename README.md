@@ -22,3 +22,7 @@ Harpal Mangat
 
  - **Final Project**
       - Project Management, Planning, Coding, Testing 
+
+# Notes
+ - Mr. Mangat is, in my opinion, possibly the best computer science teacher at RHHS. Learn as much as you can if you have him for this course.
+ - This course is very intensive, content-wise. Pay attention in class, especially on the OOP, Algorithms, and Data Structures Units, because there is a **_LOT_** of stuff to learn. Do all the exercises, and plan your time wisely on the culminating assignments.
