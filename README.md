@@ -1,9 +1,6 @@
 # ICS4U1-Computer-Science
 Homework and assignments from RHHS's ICS4U1 (Grade 12 Computer Science) course.
 
-# Instructor
-Harpal Mangat
-
 # Concepts Covered
  - **Fundamental Programming Concepts (Grade 11 Review)**
       - Problem Solving, Conventions, I/O, Arithmetic, Selection, Repetition, Methods, Arrays
@@ -24,5 +21,4 @@ Harpal Mangat
       - Project Management, Planning, Coding, Testing 
 
 # Notes
- - Mr. Mangat is, in my opinion, possibly the best computer science teacher at RHHS. Learn as much as you can if you have him for this course.
  - This course is very intensive, content-wise. Pay attention in class, especially on the OOP, Algorithms, and Data Structures Units, because there is a **_LOT_** of stuff to learn. Do all the exercises, and plan your time wisely on the culminating assignments.
