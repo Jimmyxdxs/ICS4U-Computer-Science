@@ -3,7 +3,7 @@ Homework and assignments from RHHS's ICS4U1 (Grade 12 Computer Science) course.
 
 # Concepts Covered
  - **Fundamental Programming Concepts (Grade 11 Review)**
-      - Problem Solving, Conventions, I/O, Arithmetic, Selection, Repetition, Methods, Arrays
+      - Problem Solving, Conventions, I/O, Arithmetic, Selection, Repetition, Methods, Arrays/Multidimensional Arrays
 
  - **OOP (Object Oriented Programming)**
       - Classes, Objects, Polymorphism, Inheritance, Encapsulation, Dynamic Data, Abstraction, Exceptions, Generics
