@@ -1,5 +1,5 @@
-# ICS4U1-Computer-Science
-Homework and assignments from RHHS's ICS4U1 (Grade 12 Computer Science) course.
+# ICS4U-Computer-Science
+Homework and assignments from RHHS's ICS4U (Grade 12 Computer Science) course.
 
 # Concepts Covered
  - **Fundamental Programming Concepts (Grade 11 Review)**
