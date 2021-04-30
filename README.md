@@ -1,4 +1,6 @@
 # ICS4U-Computer-Science
+![](/images/Java.png)
+
 Homework and assignments from RHHS's ICS4U (Grade 12 Computer Science) course.
 
 # Concepts Covered
