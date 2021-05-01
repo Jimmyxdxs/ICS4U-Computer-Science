@@ -1,5 +1,5 @@
 # ICS4U-Computer-Science
-![](/images/RHHS.png) ![](/images/Java.png)
+![](/images/RHHS.png) ![](/images/JavaLogo.png)
 
 Homework and assignments from RHHS's ICS4U (Grade 12 Computer Science) course.
 
