@@ -19,5 +19,5 @@ Homework and assignments from RHHS's ICS4U (Grade 12 Computer Science) course.
  - **Computers and Society**
       - Ethics and Technology, Careers
 
- - [**Final Project**](https://github.com/danielrzhang/ICS4U-Final-Project)
+ - **Final Project**
       - Project Management, Planning, Coding, Testing 
